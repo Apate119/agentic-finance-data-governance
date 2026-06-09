@@ -15,6 +15,7 @@ The design is intentionally modular so the local DuckDB implementation can later
 For a business-facing project summary, see [`docs/executive_summary.md`](docs/executive_summary.md).
 For a more detailed architecture overview, see [`docs/architecture.md`](docs/architecture.md).
 For a business view of the implemented controls, see [`docs/control_catalog.md`](docs/control_catalog.md).
+For guidance on interpreting generated outputs, see [`docs/output_guide.md`](docs/output_guide.md).
 
 ## Pipeline Flow
 
