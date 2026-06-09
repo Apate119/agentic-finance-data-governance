@@ -1,0 +1,2 @@
+check_name,dimension,severity,customer_id,customer_name,customer_segment,country,created_date
+Customer name must not be null,Completeness,Medium,CUST00006,,Small Business,US,2023-11-01

@@ -1,0 +1,2 @@
+check_name,dimension,severity,account_id,customer_id,account_type,account_status,open_date
+Every account must map to a valid customer,Integrity,High,ACCT000011,CUST99999,Checking,Active,2022-10-09

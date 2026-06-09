@@ -1,0 +1,251 @@
+customer_id,customer_name,customer_segment,country,created_date
+CUST00001,"Rodriguez, Figueroa and Sanchez",Consumer,US,2025-02-27
+CUST00002,Doyle Ltd,Commercial,US,2022-04-03
+CUST00003,"Mcclain, Miller and Henderson",Small Business,US,2024-10-17
+CUST00004,Davis and Sons,Consumer,GB,2023-05-15
+CUST00005,"Guzman, Hoffman and Baldwin",Consumer,US,2021-07-11
+CUST00006,,Small Business,US,2023-11-01
+CUST00007,Blake and Sons,Consumer,GB,2022-02-12
+CUST00008,"Henderson, Ramirez and Lewis",Enterprise,US,2023-07-09
+CUST00009,Garcia-James,Commercial,US,2025-04-04
+CUST00010,Abbott-Munoz,Small Business,CA,2022-11-28
+CUST00011,Blair PLC,Commercial,US,2022-03-17
+CUST00012,Dudley Group,Commercial,US,2021-07-09
+CUST00013,Arnold Ltd,Enterprise,US,2023-01-06
+CUST00014,"Mcclure, Ward and Lee",Commercial,GB,2022-06-26
+CUST00015,Williams and Sons,Consumer,CA,2024-01-04
+CUST00016,Galloway-Wyatt,Consumer,CA,2021-06-11
+CUST00017,James Group,Commercial,GB,2025-12-19
+CUST00018,"Flowers, Martin and Kelly",Commercial,GB,2022-01-29
+CUST00019,"Adams, Zuniga and Wong",Consumer,US,2024-09-16
+CUST00020,"Reid, Ferguson and Sanchez",Small Business,US,2021-06-13
+CUST00021,Gray-Mayo,Small Business,US,2023-02-18
+CUST00022,"Watts, Robinson and Nguyen",Commercial,CA,2024-07-25
+CUST00023,Perez Inc,Commercial,US,2023-01-29
+CUST00024,Morales-Jones,Commercial,US,2024-10-04
+CUST00025,"Walter, Edwards and Rios",Commercial,US,2024-06-01
+CUST00026,Wilkerson-Day,Small Business,GB,2025-02-02
+CUST00027,Baker and Sons,Small Business,US,2023-08-05
+CUST00028,"Hoffman, Baker and Richards",Enterprise,US,2024-08-03
+CUST00029,"Ross, Robinson and Bright",Small Business,US,2025-09-23
+CUST00030,"Snyder, Campos and Callahan",Consumer,US,2025-08-11
+CUST00031,Burton Ltd,Consumer,US,2023-04-02
+CUST00032,Carlson-Cruz,Commercial,US,2022-03-09
+CUST00033,"Ferrell, Rice and Maddox",Commercial,US,2024-09-04
+CUST00034,Frazier Inc,Enterprise,CA,2025-12-17
+CUST00035,"Dyer, Potter and Mack",Enterprise,US,2022-06-27
+CUST00036,Rodriguez-Graham,Small Business,US,2025-03-06
+CUST00037,Smith-Bowen,Commercial,GB,2023-05-28
+CUST00038,"Baker, Mason and White",Enterprise,US,2022-03-26
+CUST00039,Harrell LLC,Small Business,GB,2023-10-08
+CUST00040,"Romero, Gonzalez and Brooks",Consumer,US,2025-10-30
+CUST00041,Ryan PLC,Consumer,US,2024-07-09
+CUST00042,George Group,Small Business,CA,2024-05-06
+CUST00043,Rodriguez LLC,Consumer,CA,2023-02-21
+CUST00044,Allen-Allen,Enterprise,GB,2022-05-30
+CUST00045,"Arroyo, Miller and Tucker",Consumer,US,2024-10-28
+CUST00046,Spence PLC,Commercial,US,2021-08-17
+CUST00047,Anderson Group,Commercial,CA,2021-11-20
+CUST00048,"Martin, Rose and Obrien",Enterprise,US,2025-01-18
+CUST00049,Hickman Ltd,Commercial,GB,2025-04-10
+CUST00050,"Harris, Collins and Carney",Small Business,GB,2021-08-06
+CUST00051,"Brooks, Lam and Hayes",Commercial,GB,2024-06-01
+CUST00052,Walker LLC,Small Business,US,2023-02-05
+CUST00053,Chapman and Sons,Small Business,GB,2025-05-14
+CUST00054,"Robinson, Jones and Welch",Consumer,GB,2022-10-26
+CUST00055,Jones Inc,Enterprise,US,2021-08-18
+CUST00056,Jones-Young,Commercial,US,2022-05-06
+CUST00057,"Washington, Ryan and Cummings",Consumer,US,2025-12-04
+CUST00058,"Johnston, Sanchez and Kennedy",Consumer,US,2025-02-07
+CUST00059,Lee-Davis,Enterprise,US,2025-04-07
+CUST00060,Gomez-Jenkins,Small Business,US,2024-09-13
+CUST00061,"Brown, Valdez and Lucas",Enterprise,GB,2021-12-05
+CUST00062,Powell LLC,Commercial,GB,2025-11-22
+CUST00063,Wright and Sons,Enterprise,US,2024-01-10
+CUST00064,"West, Henderson and Ramirez",Small Business,US,2023-03-29
+CUST00065,Baxter Inc,Commercial,CA,2023-11-26
+CUST00066,Morton-Chase,Enterprise,US,2022-05-23
+CUST00067,Williams PLC,Small Business,US,2022-11-24
+CUST00068,Novak and Sons,Consumer,GB,2024-02-09
+CUST00069,Russell Group,Small Business,GB,2022-03-28
+CUST00070,Hancock Inc,Consumer,US,2024-12-20
+CUST00071,Gray Group,Consumer,US,2021-05-19
+CUST00072,House-Glover,Consumer,US,2021-05-26
+CUST00073,Henderson-Bernard,Small Business,US,2024-10-02
+CUST00074,"Stanley, Tucker and Lee",Enterprise,US,2024-01-10
+CUST00075,Novak PLC,Small Business,GB,2024-03-26
+CUST00076,"Daniels, Adkins and Brown",Enterprise,US,2025-05-26
+CUST00077,"Woods, Calhoun and Schmidt",Enterprise,CA,2022-01-25
+CUST00078,Yu Inc,Consumer,US,2024-09-11
+CUST00079,Jones Inc,Enterprise,US,2023-05-18
+CUST00080,"Hensley, Powell and David",Enterprise,CA,2025-11-05
+CUST00081,"Sanchez, Wheeler and Harvey",Consumer,US,2021-05-05
+CUST00082,Sandoval-Cunningham,Enterprise,US,2025-06-28
+CUST00083,Donovan-Harris,Consumer,US,2022-01-28
+CUST00084,"Edwards, Baker and Anderson",Small Business,GB,2023-07-08
+CUST00085,"Evans, Stewart and Walton",Small Business,CA,2022-01-11
+CUST00086,Smith PLC,Commercial,CA,2022-05-27
+CUST00087,"Ferrell, Jones and Lewis",Consumer,CA,2025-07-13
+CUST00088,Anderson-Bailey,Consumer,US,2024-08-28
+CUST00089,Suarez LLC,Consumer,US,2025-03-24
+CUST00090,Moore-Bass,Small Business,US,2023-04-13
+CUST00091,"Turner, Riggs and Roman",Enterprise,CA,2022-03-14
+CUST00092,"Smith, Montoya and Evans",Enterprise,US,2021-12-04
+CUST00093,"Garcia, Humphrey and Baker",Enterprise,US,2023-03-11
+CUST00094,Newton and Sons,Commercial,CA,2022-08-08
+CUST00095,Campbell-Clark,Enterprise,GB,2024-09-17
+CUST00096,Harris-Walters,Enterprise,US,2022-01-24
+CUST00097,Wagner-King,Commercial,US,2021-04-30
+CUST00098,Davis Group,Consumer,US,2021-04-28
+CUST00099,Williams-Cook,Consumer,GB,2023-09-04
+CUST00100,Walsh LLC,Small Business,US,2023-11-07
+CUST00101,Figueroa PLC,Consumer,US,2021-05-21
+CUST00102,"Patterson, Smith and Jones",Consumer,US,2023-04-07
+CUST00103,"Mckee, Gardner and Davenport",Consumer,GB,2022-05-20
+CUST00104,"Tran, Jordan and Williams",Consumer,GB,2021-06-17
+CUST00105,Nolan-Flynn,Enterprise,GB,2024-03-03
+CUST00106,Nolan and Sons,Commercial,US,2022-02-23
+CUST00107,"Wright, Garcia and Deleon",Commercial,US,2022-06-28
+CUST00108,Dickson-Brady,Enterprise,US,2024-10-07
+CUST00109,Hancock and Sons,Commercial,CA,2022-10-10
+CUST00110,Johnson-Doyle,Consumer,US,2023-07-28
+CUST00111,Patton-Jenkins,Consumer,US,2024-01-07
+CUST00112,"Shields, Cochran and Adams",Small Business,GB,2022-06-28
+CUST00113,"Rodriguez, Brennan and Garrison",Small Business,US,2025-12-10
+CUST00114,Gonzalez Group,Consumer,US,2023-01-27
+CUST00115,Torres-Pope,Commercial,US,2023-06-17
+CUST00116,Walker Ltd,Commercial,GB,2025-07-11
+CUST00117,Ross LLC,Consumer,GB,2022-09-06
+CUST00118,Rasmussen LLC,Consumer,US,2022-06-26
+CUST00119,May-Ross,Consumer,US,2025-03-01
+CUST00120,"Rivera, Johnson and Wiley",Small Business,US,2022-08-01
+CUST00121,White-Estes,Small Business,US,2022-02-21
+CUST00122,Johnson-Carlson,Commercial,GB,2023-09-28
+CUST00123,Chandler-Edwards,Commercial,US,2021-07-09
+CUST00124,"Joyce, Wilson and Lam",Enterprise,US,2021-04-01
+CUST00125,Scott Ltd,Consumer,US,2025-04-29
+CUST00126,Smith-Frost,Small Business,US,2021-11-27
+CUST00127,"Mcdaniel, Bentley and Mclaughlin",Enterprise,GB,2024-12-16
+CUST00128,Diaz Inc,Enterprise,GB,2021-01-20
+CUST00129,"Mccall, Hanson and Alvarado",Consumer,US,2025-12-14
+CUST00130,Cortez LLC,Small Business,GB,2021-03-15
+CUST00131,"Parker, Ortiz and Powell",Commercial,GB,2024-02-06
+CUST00132,Spencer-Lee,Small Business,CA,2021-09-19
+CUST00133,"Bentley, Byrd and Orr",Consumer,US,2023-01-17
+CUST00134,"Carroll, Sullivan and Bass",Consumer,US,2022-03-07
+CUST00135,Mitchell-Jordan,Small Business,US,2022-12-26
+CUST00136,"Lawson, Morris and Ramos",Enterprise,GB,2025-03-15
+CUST00137,"Lewis, Kennedy and Santana",Small Business,US,2025-11-06
+CUST00138,"Jackson, Miller and Robertson",Small Business,US,2025-12-11
+CUST00139,"Harvey, Davis and Crane",Enterprise,US,2022-01-03
+CUST00140,Chambers and Sons,Commercial,CA,2025-07-01
+CUST00141,Hernandez Inc,Small Business,US,2021-11-23
+CUST00142,Riggs PLC,Consumer,CA,2025-11-22
+CUST00143,Gibson Ltd,Consumer,CA,2022-04-01
+CUST00144,"Lee, Horton and Snyder",Small Business,CA,2022-12-18
+CUST00145,Hernandez Ltd,Commercial,US,2022-04-02
+CUST00146,Stafford Inc,Consumer,US,2023-03-28
+CUST00147,Robinson-Brock,Commercial,US,2025-11-06
+CUST00148,"Holmes, Williams and Wright",Consumer,US,2022-12-21
+CUST00149,Bryant Group,Enterprise,GB,2022-11-10
+CUST00150,"Schmidt, Hansen and Stewart",Consumer,US,2025-12-02
+CUST00151,Salazar-Ball,Commercial,US,2024-04-04
+CUST00152,"Simmons, Meadows and Griffin",Commercial,US,2021-08-11
+CUST00153,Manning Group,Enterprise,US,2025-02-01
+CUST00154,Green-Wright,Commercial,CA,2024-05-26
+CUST00155,"Ramirez, Strickland and Washington",Consumer,CA,2024-03-26
+CUST00156,Hill Inc,Small Business,US,2021-04-01
+CUST00157,"Mitchell, Nelson and Flores",Enterprise,US,2023-12-01
+CUST00158,"Miller, Hernandez and Reyes",Small Business,US,2023-06-03
+CUST00159,Mccarthy Inc,Consumer,US,2024-06-30
+CUST00160,Russell-Daniels,Commercial,US,2025-01-14
+CUST00161,Brown-Wall,Commercial,GB,2022-09-26
+CUST00162,Stein-Silva,Enterprise,US,2023-04-05
+CUST00163,"Smith, Gilmore and Johnston",Commercial,GB,2021-09-18
+CUST00164,Smith-Bell,Small Business,CA,2024-09-23
+CUST00165,Castaneda-Ashley,Enterprise,US,2024-06-14
+CUST00166,Medina-Navarro,Commercial,CA,2024-01-28
+CUST00167,"Hurst, Freeman and Nelson",Consumer,US,2022-08-11
+CUST00168,Johnson-Rogers,Small Business,CA,2025-05-29
+CUST00169,"Yates, Ramsey and Pittman",Commercial,CA,2023-06-24
+CUST00170,Hooper PLC,Enterprise,US,2023-11-13
+CUST00171,Meadows PLC,Enterprise,US,2024-09-11
+CUST00172,"Alvarado, Miller and Patterson",Consumer,US,2023-11-22
+CUST00173,White-Green,Commercial,US,2025-08-04
+CUST00174,Lewis-Murphy,Small Business,US,2022-04-06
+CUST00175,Ramirez-Bean,Small Business,US,2021-02-20
+CUST00176,King-Miller,Consumer,US,2023-09-01
+CUST00177,Curry Inc,Consumer,CA,2023-04-29
+CUST00178,Walker-Jones,Small Business,CA,2023-10-10
+CUST00179,"Williams, Johnson and Wright",Enterprise,US,2021-10-30
+CUST00180,Howell and Sons,Consumer,US,2025-05-14
+CUST00181,Wells Inc,Enterprise,US,2021-12-27
+CUST00182,"Gould, Marshall and Scott",Enterprise,US,2024-02-16
+CUST00183,Jackson-Lawson,Small Business,US,2023-07-24
+CUST00184,"Higgins, Strickland and Martin",Small Business,CA,2024-09-29
+CUST00185,Rodriguez-Johnson,Commercial,CA,2024-06-08
+CUST00186,Johnston-Odonnell,Enterprise,GB,2023-07-03
+CUST00187,Sanders-Espinoza,Small Business,CA,2023-07-11
+CUST00188,Vargas Ltd,Commercial,US,2025-09-17
+CUST00189,Garcia LLC,Commercial,GB,2023-09-20
+CUST00190,"Burke, Martinez and Riggs",Small Business,US,2023-06-20
+CUST00191,Reed Group,Consumer,US,2022-04-26
+CUST00192,"Wood, Hunter and Peterson",Commercial,US,2022-10-17
+CUST00193,Short-Garcia,Consumer,US,2021-11-05
+CUST00194,Reid-Poole,Small Business,CA,2024-11-22
+CUST00195,"Hernandez, Thompson and Boyd",Small Business,US,2021-05-12
+CUST00196,"Nelson, Morton and Medina",Enterprise,CA,2022-11-09
+CUST00197,Marshall-Petersen,Enterprise,CA,2021-05-08
+CUST00198,"Adams, Christian and Rivas",Small Business,CA,2023-03-09
+CUST00199,Ramirez Group,Consumer,GB,2023-02-19
+CUST00200,Christensen PLC,Enterprise,US,2022-12-22
+CUST00201,"Barnett, Rogers and Snyder",Commercial,CA,2025-10-14
+CUST00202,White-Lewis,Enterprise,GB,2025-03-11
+CUST00203,Peterson-Beard,Small Business,CA,2022-03-26
+CUST00204,"Beard, Peters and Black",Commercial,CA,2023-09-22
+CUST00205,Miller Ltd,Consumer,CA,2022-11-20
+CUST00206,Freeman-Chang,Enterprise,US,2025-09-18
+CUST00207,"Alvarez, Joseph and West",Enterprise,US,2024-06-28
+CUST00208,Davis and Sons,Consumer,CA,2024-04-27
+CUST00209,Holt-Torres,Consumer,US,2024-08-09
+CUST00210,"Wood, Tran and Cooper",Enterprise,US,2025-11-11
+CUST00211,"Pierce, Bell and Chavez",Enterprise,US,2021-04-13
+CUST00212,King-Martinez,Commercial,CA,2022-11-02
+CUST00213,Stewart Ltd,Small Business,CA,2022-11-01
+CUST00214,"Tapia, Vaughn and Lee",Commercial,CA,2022-07-24
+CUST00215,"Washington, Hardy and Bray",Enterprise,US,2025-09-06
+CUST00216,"Carlson, Hooper and Wall",Consumer,CA,2021-02-09
+CUST00217,Perez-White,Consumer,US,2022-04-05
+CUST00218,Erickson and Sons,Consumer,US,2025-03-25
+CUST00219,Williams-Brown,Consumer,US,2022-02-13
+CUST00220,Terry-Martinez,Consumer,GB,2021-11-09
+CUST00221,Garcia-Smith,Small Business,US,2023-08-28
+CUST00222,Harrison-Alexander,Consumer,GB,2022-03-23
+CUST00223,Sheppard LLC,Enterprise,US,2025-04-20
+CUST00224,Wilson-Jones,Commercial,US,2024-05-25
+CUST00225,Jones-Soto,Consumer,US,2022-09-30
+CUST00226,Hernandez PLC,Consumer,GB,2021-02-22
+CUST00227,Miller-Wright,Commercial,GB,2024-10-19
+CUST00228,"Duran, Obrien and Gibbs",Enterprise,CA,2025-01-04
+CUST00229,Rowe Group,Small Business,US,2024-04-27
+CUST00230,Kerr-Evans,Small Business,US,2024-11-28
+CUST00231,"Branch, Torres and Oliver",Commercial,GB,2025-07-08
+CUST00232,"Choi, Garcia and Farmer",Consumer,GB,2025-05-22
+CUST00233,"Clark, Guerrero and Moore",Consumer,US,2023-12-28
+CUST00234,Arnold and Sons,Enterprise,US,2021-05-22
+CUST00235,Ortiz Ltd,Commercial,US,2025-10-06
+CUST00236,"Harrison, Johnson and Roberts",Enterprise,CA,2021-08-05
+CUST00237,Warner-Gibson,Enterprise,US,2024-07-25
+CUST00238,"Hall, Baker and Moody",Enterprise,US,2023-06-11
+CUST00239,"Guerrero, Peck and Coleman",Small Business,GB,2024-08-25
+CUST00240,"Walker, Hernandez and Baker",Commercial,GB,2025-07-14
+CUST00241,Jones and Sons,Enterprise,CA,2023-06-12
+CUST00242,Larson-Holloway,Commercial,US,2025-10-11
+CUST00243,Gonzales-Harrison,Small Business,US,2022-07-26
+CUST00244,Lyons-Bender,Enterprise,US,2025-03-17
+CUST00245,"Fernandez, Kim and George",Enterprise,GB,2024-06-03
+CUST00246,Navarro-Munoz,Enterprise,US,2021-02-28
+CUST00247,Davis Ltd,Enterprise,US,2022-01-08
+CUST00248,"Matthews, Smith and Hubbard",Enterprise,US,2022-12-28
+CUST00249,Johnston-Hines,Commercial,US,2022-07-27
+CUST00250,Ruiz Ltd,Commercial,GB,2021-01-21

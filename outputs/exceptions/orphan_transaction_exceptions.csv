@@ -1,0 +1,2 @@
+check_name,dimension,severity,transaction_id,account_id,transaction_date,transaction_type,amount,currency
+Every transaction must map to a valid account,Integrity,High,TXN00000051,ACCT999999,2025-07-31,Interest,4574.13,CAD

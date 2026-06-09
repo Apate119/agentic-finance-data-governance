@@ -1,0 +1,2 @@
+total_checks,passed_checks,failed_checks,pass_rate,pass_rate_pct,high_severity_failures,medium_severity_failures,total_failed_records,missing_control_metadata_count,regulatory_readiness_status
+17,11,6,0.6471,64.71,3,3,347,0,Not Ready

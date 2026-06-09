@@ -1,0 +1,7 @@
+control_id,check_name,table_name,dimension,severity,owner,regulatory_relevance,failed_records,failed_runs
+CTRL-006,Every account must map to a valid customer,stg_accounts,Integrity,High,Account Data Owner,Required for referential integrity and lineage,1,1
+CTRL-010,Every transaction must map to a valid account,stg_transactions,Integrity,High,Transaction Data Owner,Required for account-to-transaction lineage,1,1
+CTRL-014,Regulatory reported balance must not be null,stg_regulatory_balances,Completeness,High,Regulatory Reporting Owner,Required for regulatory report completeness,1,1
+CTRL-007,Account status must be valid,stg_accounts,Validity,Medium,Account Data Owner,Supports portfolio classification and operational reporting,292,1
+CTRL-004,Customer country must be valid,stg_customers,Validity,Medium,Customer Data Owner,Supports geographic segmentation and reporting accuracy,51,1
+CTRL-002,Customer name must not be null,stg_customers,Completeness,Medium,Customer Data Owner,Supports customer reference data completeness,1,1

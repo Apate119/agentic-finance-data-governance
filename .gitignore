@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+# Local databases
+*.duckdb
+*.db
+
+# Optional: ignore generated outputs if you don't want them committed
+# outputs/

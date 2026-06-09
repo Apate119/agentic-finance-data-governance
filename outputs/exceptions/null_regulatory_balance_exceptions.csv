@@ -1,0 +1,2 @@
+check_name,dimension,severity,report_date,account_type,reported_balance,report_name
+Regulatory reported balance must not be null,Completeness,High,2025-01-31,Loan,,FFIEC 031

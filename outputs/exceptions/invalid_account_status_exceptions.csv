@@ -1,0 +1,293 @@
+check_name,dimension,severity,account_id,customer_id,account_type,account_status,open_date
+Account status must be valid,Validity,Medium,ACCT000001,CUST00133,Savings,Active,2022-05-10
+Account status must be valid,Validity,Medium,ACCT000005,CUST00005,Checking,Active,2022-03-30
+Account status must be valid,Validity,Medium,ACCT000006,CUST00104,Savings,Active,2024-09-21
+Account status must be valid,Validity,Medium,ACCT000009,CUST00141,Credit Card,Active,2024-12-10
+Account status must be valid,Validity,Medium,ACCT000010,CUST00117,Credit Card,Active,2022-05-30
+Account status must be valid,Validity,Medium,ACCT000011,CUST99999,Checking,Active,2022-10-09
+Account status must be valid,Validity,Medium,ACCT000012,CUST00031,Savings,Active,2022-03-20
+Account status must be valid,Validity,Medium,ACCT000013,CUST00190,Loan,Active,2025-01-23
+Account status must be valid,Validity,Medium,ACCT000014,CUST00151,Credit Card,Active,2025-09-02
+Account status must be valid,Validity,Medium,ACCT000015,CUST00050,Credit Card,Active,2023-01-10
+Account status must be valid,Validity,Medium,ACCT000016,CUST00046,Credit Card,Active,2024-12-21
+Account status must be valid,Validity,Medium,ACCT000017,CUST00137,Savings,Active,2021-04-04
+Account status must be valid,Validity,Medium,ACCT000018,CUST00250,Checking,Active,2024-11-29
+Account status must be valid,Validity,Medium,ACCT000020,CUST00224,Checking,Active,2023-08-20
+Account status must be valid,Validity,Medium,ACCT000021,CUST00123,Loan,Active,2022-01-13
+Account status must be valid,Validity,Medium,ACCT000022,CUST00248,Checking,Active,2025-10-31
+Account status must be valid,Validity,Medium,ACCT000023,CUST00123,Checking,Active,2023-04-01
+Account status must be valid,Validity,Medium,ACCT000024,CUST00126,Checking,Active,2021-11-07
+Account status must be valid,Validity,Medium,ACCT000025,CUST00039,Credit Card,Active,2022-05-24
+Account status must be valid,Validity,Medium,ACCT000026,CUST00031,Loan,Active,2025-05-08
+Account status must be valid,Validity,Medium,ACCT000028,CUST00077,Loan,Active,2024-03-10
+Account status must be valid,Validity,Medium,ACCT000029,CUST00159,Checking,Active,2025-04-12
+Account status must be valid,Validity,Medium,ACCT000030,CUST00054,Savings,Active,2024-09-14
+Account status must be valid,Validity,Medium,ACCT000031,CUST00021,Savings,Active,2021-12-22
+Account status must be valid,Validity,Medium,ACCT000032,CUST00142,Checking,Active,2021-01-06
+Account status must be valid,Validity,Medium,ACCT000034,CUST00009,Savings,Active,2024-12-18
+Account status must be valid,Validity,Medium,ACCT000035,CUST00073,Loan,Active,2024-11-08
+Account status must be valid,Validity,Medium,ACCT000036,CUST00060,Credit Card,Active,2023-05-21
+Account status must be valid,Validity,Medium,ACCT000037,CUST00030,Savings,Active,2022-06-29
+Account status must be valid,Validity,Medium,ACCT000038,CUST00212,Savings,Active,2021-05-03
+Account status must be valid,Validity,Medium,ACCT000039,CUST00043,Credit Card,Active,2023-06-19
+Account status must be valid,Validity,Medium,ACCT000040,CUST00032,Loan,Active,2024-12-04
+Account status must be valid,Validity,Medium,ACCT000043,CUST00083,Credit Card,Active,2021-07-07
+Account status must be valid,Validity,Medium,ACCT000044,CUST00059,Checking,Active,2024-03-26
+Account status must be valid,Validity,Medium,ACCT000046,CUST00167,Loan,Active,2022-01-07
+Account status must be valid,Validity,Medium,ACCT000049,CUST00083,Checking,Active,2022-11-07
+Account status must be valid,Validity,Medium,ACCT000050,CUST00106,Loan,Active,2024-09-18
+Account status must be valid,Validity,Medium,ACCT000051,CUST00242,Loan,Active,2023-07-21
+Account status must be valid,Validity,Medium,ACCT000052,CUST00023,Credit Card,Active,2022-10-25
+Account status must be valid,Validity,Medium,ACCT000053,CUST00030,Loan,Active,2024-09-08
+Account status must be valid,Validity,Medium,ACCT000056,CUST00114,Checking,Active,2022-07-01
+Account status must be valid,Validity,Medium,ACCT000057,CUST00141,Savings,Active,2023-06-17
+Account status must be valid,Validity,Medium,ACCT000058,CUST00226,Loan,Active,2021-03-01
+Account status must be valid,Validity,Medium,ACCT000059,CUST00250,Savings,Active,2022-09-29
+Account status must be valid,Validity,Medium,ACCT000064,CUST00124,Loan,Active,2023-07-25
+Account status must be valid,Validity,Medium,ACCT000066,CUST00236,Savings,Active,2022-07-20
+Account status must be valid,Validity,Medium,ACCT000067,CUST00198,Loan,Active,2025-06-02
+Account status must be valid,Validity,Medium,ACCT000068,CUST00130,Credit Card,Active,2022-08-03
+Account status must be valid,Validity,Medium,ACCT000072,CUST00223,Savings,Active,2024-03-17
+Account status must be valid,Validity,Medium,ACCT000076,CUST00033,Credit Card,Active,2025-11-26
+Account status must be valid,Validity,Medium,ACCT000077,CUST00217,Loan,Active,2023-12-14
+Account status must be valid,Validity,Medium,ACCT000078,CUST00234,Loan,Active,2025-01-19
+Account status must be valid,Validity,Medium,ACCT000079,CUST00037,Loan,Active,2021-06-03
+Account status must be valid,Validity,Medium,ACCT000080,CUST00121,Credit Card,Active,2024-06-30
+Account status must be valid,Validity,Medium,ACCT000081,CUST00178,Loan,Active,2025-10-11
+Account status must be valid,Validity,Medium,ACCT000082,CUST00085,Loan,Active,2024-07-07
+Account status must be valid,Validity,Medium,ACCT000083,CUST00184,Loan,Active,2024-06-18
+Account status must be valid,Validity,Medium,ACCT000084,CUST00018,Savings,Active,2022-04-11
+Account status must be valid,Validity,Medium,ACCT000087,CUST00178,Credit Card,Active,2021-04-05
+Account status must be valid,Validity,Medium,ACCT000088,CUST00084,Checking,Active,2023-01-05
+Account status must be valid,Validity,Medium,ACCT000089,CUST00096,Loan,Active,2022-05-16
+Account status must be valid,Validity,Medium,ACCT000090,CUST00136,Loan,Active,2021-12-15
+Account status must be valid,Validity,Medium,ACCT000094,CUST00066,Loan,Active,2024-09-27
+Account status must be valid,Validity,Medium,ACCT000095,CUST00003,Loan,Active,2024-10-19
+Account status must be valid,Validity,Medium,ACCT000096,CUST00140,Savings,Active,2023-06-24
+Account status must be valid,Validity,Medium,ACCT000097,CUST00242,Credit Card,Active,2024-08-01
+Account status must be valid,Validity,Medium,ACCT000098,CUST00247,Loan,Active,2023-07-25
+Account status must be valid,Validity,Medium,ACCT000099,CUST00217,Credit Card,Active,2023-02-27
+Account status must be valid,Validity,Medium,ACCT000100,CUST00219,Loan,Active,2022-05-01
+Account status must be valid,Validity,Medium,ACCT000101,CUST00098,Credit Card,Active,2024-12-03
+Account status must be valid,Validity,Medium,ACCT000104,CUST00232,Credit Card,Active,2024-05-28
+Account status must be valid,Validity,Medium,ACCT000105,CUST00206,Credit Card,Active,2024-07-27
+Account status must be valid,Validity,Medium,ACCT000106,CUST00049,Credit Card,Active,2024-07-10
+Account status must be valid,Validity,Medium,ACCT000107,CUST00025,Checking,Active,2025-06-04
+Account status must be valid,Validity,Medium,ACCT000108,CUST00113,Checking,Active,2025-02-08
+Account status must be valid,Validity,Medium,ACCT000109,CUST00034,Checking,Active,2022-11-01
+Account status must be valid,Validity,Medium,ACCT000110,CUST00192,Loan,Active,2022-02-16
+Account status must be valid,Validity,Medium,ACCT000111,CUST00034,Credit Card,Active,2025-08-28
+Account status must be valid,Validity,Medium,ACCT000113,CUST00076,Credit Card,Active,2023-08-18
+Account status must be valid,Validity,Medium,ACCT000114,CUST00247,Checking,Active,2025-03-25
+Account status must be valid,Validity,Medium,ACCT000116,CUST00206,Credit Card,Active,2025-06-08
+Account status must be valid,Validity,Medium,ACCT000117,CUST00102,Checking,Active,2024-01-04
+Account status must be valid,Validity,Medium,ACCT000118,CUST00032,Loan,Active,2024-10-09
+Account status must be valid,Validity,Medium,ACCT000120,CUST00164,Credit Card,Active,2024-10-14
+Account status must be valid,Validity,Medium,ACCT000121,CUST00060,Loan,Active,2024-06-22
+Account status must be valid,Validity,Medium,ACCT000122,CUST00227,Credit Card,Active,2024-08-19
+Account status must be valid,Validity,Medium,ACCT000123,CUST00017,Loan,Active,2024-08-22
+Account status must be valid,Validity,Medium,ACCT000124,CUST00105,Checking,Active,2021-04-03
+Account status must be valid,Validity,Medium,ACCT000125,CUST00243,Checking,Active,2023-10-06
+Account status must be valid,Validity,Medium,ACCT000126,CUST00030,Checking,Active,2025-12-23
+Account status must be valid,Validity,Medium,ACCT000128,CUST00095,Loan,Active,2025-12-19
+Account status must be valid,Validity,Medium,ACCT000130,CUST00105,Credit Card,Active,2024-11-14
+Account status must be valid,Validity,Medium,ACCT000132,CUST00244,Savings,Active,2021-07-23
+Account status must be valid,Validity,Medium,ACCT000133,CUST00176,Credit Card,Active,2021-05-05
+Account status must be valid,Validity,Medium,ACCT000134,CUST00102,Credit Card,Active,2021-09-08
+Account status must be valid,Validity,Medium,ACCT000135,CUST00243,Loan,Active,2024-09-19
+Account status must be valid,Validity,Medium,ACCT000136,CUST00055,Checking,Active,2025-05-31
+Account status must be valid,Validity,Medium,ACCT000137,CUST00086,Savings,Active,2025-05-31
+Account status must be valid,Validity,Medium,ACCT000138,CUST00145,Savings,Active,2025-08-27
+Account status must be valid,Validity,Medium,ACCT000139,CUST00196,Savings,Active,2025-07-24
+Account status must be valid,Validity,Medium,ACCT000140,CUST00223,Savings,Active,2025-05-05
+Account status must be valid,Validity,Medium,ACCT000141,CUST00038,Checking,Active,2025-10-25
+Account status must be valid,Validity,Medium,ACCT000142,CUST00038,Savings,Active,2025-06-24
+Account status must be valid,Validity,Medium,ACCT000143,CUST00045,Checking,Active,2021-09-27
+Account status must be valid,Validity,Medium,ACCT000144,CUST00004,Credit Card,Active,2024-04-20
+Account status must be valid,Validity,Medium,ACCT000145,CUST00083,Checking,Active,2022-06-28
+Account status must be valid,Validity,Medium,ACCT000148,CUST00200,Credit Card,Active,2023-07-15
+Account status must be valid,Validity,Medium,ACCT000149,CUST00129,Savings,Active,2025-01-29
+Account status must be valid,Validity,Medium,ACCT000151,CUST00247,Checking,Active,2023-09-08
+Account status must be valid,Validity,Medium,ACCT000154,CUST00231,Checking,Active,2024-05-30
+Account status must be valid,Validity,Medium,ACCT000155,CUST00038,Checking,Active,2022-07-18
+Account status must be valid,Validity,Medium,ACCT000158,CUST00155,Loan,Active,2025-06-13
+Account status must be valid,Validity,Medium,ACCT000159,CUST00180,Checking,Active,2023-05-31
+Account status must be valid,Validity,Medium,ACCT000162,CUST00187,Checking,Active,2023-05-25
+Account status must be valid,Validity,Medium,ACCT000163,CUST00081,Credit Card,Active,2021-11-09
+Account status must be valid,Validity,Medium,ACCT000164,CUST00176,Loan,Active,2021-07-06
+Account status must be valid,Validity,Medium,ACCT000165,CUST00213,Checking,Active,2023-06-04
+Account status must be valid,Validity,Medium,ACCT000166,CUST00025,Credit Card,Active,2024-02-14
+Account status must be valid,Validity,Medium,ACCT000167,CUST00016,Credit Card,Active,2023-04-22
+Account status must be valid,Validity,Medium,ACCT000168,CUST00091,Loan,Active,2022-08-13
+Account status must be valid,Validity,Medium,ACCT000169,CUST00154,Credit Card,Active,2021-08-01
+Account status must be valid,Validity,Medium,ACCT000170,CUST00148,Savings,Active,2024-09-06
+Account status must be valid,Validity,Medium,ACCT000171,CUST00124,Savings,Active,2022-12-19
+Account status must be valid,Validity,Medium,ACCT000172,CUST00217,Credit Card,Active,2025-04-11
+Account status must be valid,Validity,Medium,ACCT000174,CUST00144,Checking,Active,2021-03-01
+Account status must be valid,Validity,Medium,ACCT000175,CUST00047,Credit Card,Active,2022-11-27
+Account status must be valid,Validity,Medium,ACCT000176,CUST00090,Checking,Active,2025-11-17
+Account status must be valid,Validity,Medium,ACCT000177,CUST00037,Loan,Active,2021-10-18
+Account status must be valid,Validity,Medium,ACCT000178,CUST00190,Checking,Active,2025-03-09
+Account status must be valid,Validity,Medium,ACCT000180,CUST00117,Credit Card,Active,2023-01-28
+Account status must be valid,Validity,Medium,ACCT000181,CUST00080,Credit Card,Active,2025-12-15
+Account status must be valid,Validity,Medium,ACCT000182,CUST00014,Savings,Active,2025-03-26
+Account status must be valid,Validity,Medium,ACCT000183,CUST00159,Checking,Active,2022-07-12
+Account status must be valid,Validity,Medium,ACCT000185,CUST00114,Loan,Active,2022-03-18
+Account status must be valid,Validity,Medium,ACCT000186,CUST00194,Checking,Active,2023-05-31
+Account status must be valid,Validity,Medium,ACCT000188,CUST00171,Credit Card,Active,2022-03-28
+Account status must be valid,Validity,Medium,ACCT000189,CUST00102,Checking,Active,2022-02-23
+Account status must be valid,Validity,Medium,ACCT000190,CUST00078,Savings,Active,2025-04-15
+Account status must be valid,Validity,Medium,ACCT000191,CUST00066,Credit Card,Active,2021-09-03
+Account status must be valid,Validity,Medium,ACCT000193,CUST00034,Loan,Active,2023-10-22
+Account status must be valid,Validity,Medium,ACCT000194,CUST00144,Credit Card,Active,2023-03-25
+Account status must be valid,Validity,Medium,ACCT000196,CUST00118,Checking,Active,2024-03-25
+Account status must be valid,Validity,Medium,ACCT000198,CUST00030,Loan,Active,2022-10-28
+Account status must be valid,Validity,Medium,ACCT000199,CUST00044,Loan,Active,2021-06-30
+Account status must be valid,Validity,Medium,ACCT000200,CUST00112,Checking,Active,2023-06-12
+Account status must be valid,Validity,Medium,ACCT000201,CUST00151,Loan,Active,2023-03-22
+Account status must be valid,Validity,Medium,ACCT000202,CUST00223,Credit Card,Active,2022-03-30
+Account status must be valid,Validity,Medium,ACCT000203,CUST00086,Savings,Active,2023-11-12
+Account status must be valid,Validity,Medium,ACCT000204,CUST00163,Checking,Active,2025-05-09
+Account status must be valid,Validity,Medium,ACCT000205,CUST00090,Credit Card,Active,2022-04-29
+Account status must be valid,Validity,Medium,ACCT000206,CUST00027,Savings,Active,2022-02-09
+Account status must be valid,Validity,Medium,ACCT000207,CUST00045,Savings,Active,2021-12-29
+Account status must be valid,Validity,Medium,ACCT000209,CUST00145,Loan,Active,2025-11-05
+Account status must be valid,Validity,Medium,ACCT000210,CUST00249,Credit Card,Active,2023-06-20
+Account status must be valid,Validity,Medium,ACCT000212,CUST00078,Credit Card,Active,2022-12-22
+Account status must be valid,Validity,Medium,ACCT000213,CUST00130,Checking,Active,2023-08-04
+Account status must be valid,Validity,Medium,ACCT000214,CUST00116,Checking,Active,2023-01-26
+Account status must be valid,Validity,Medium,ACCT000215,CUST00213,Credit Card,Active,2024-08-13
+Account status must be valid,Validity,Medium,ACCT000218,CUST00147,Savings,Active,2024-05-24
+Account status must be valid,Validity,Medium,ACCT000219,CUST00122,Savings,Active,2023-07-12
+Account status must be valid,Validity,Medium,ACCT000220,CUST00027,Credit Card,Active,2023-10-31
+Account status must be valid,Validity,Medium,ACCT000221,CUST00166,Savings,Active,2022-05-23
+Account status must be valid,Validity,Medium,ACCT000223,CUST00134,Savings,Active,2023-02-03
+Account status must be valid,Validity,Medium,ACCT000225,CUST00199,Credit Card,Active,2025-06-05
+Account status must be valid,Validity,Medium,ACCT000226,CUST00162,Credit Card,Active,2022-11-07
+Account status must be valid,Validity,Medium,ACCT000227,CUST00025,Loan,Active,2022-06-01
+Account status must be valid,Validity,Medium,ACCT000228,CUST00186,Savings,Active,2021-06-16
+Account status must be valid,Validity,Medium,ACCT000229,CUST00150,Savings,Active,2022-09-28
+Account status must be valid,Validity,Medium,ACCT000230,CUST00248,Loan,Active,2024-05-03
+Account status must be valid,Validity,Medium,ACCT000231,CUST00182,Checking,Active,2024-02-19
+Account status must be valid,Validity,Medium,ACCT000232,CUST00097,Credit Card,Active,2024-10-04
+Account status must be valid,Validity,Medium,ACCT000234,CUST00093,Checking,Active,2022-09-25
+Account status must be valid,Validity,Medium,ACCT000235,CUST00047,Savings,Active,2025-04-19
+Account status must be valid,Validity,Medium,ACCT000236,CUST00125,Savings,Active,2021-10-09
+Account status must be valid,Validity,Medium,ACCT000237,CUST00040,Checking,Active,2025-09-26
+Account status must be valid,Validity,Medium,ACCT000238,CUST00202,Checking,Active,2024-09-17
+Account status must be valid,Validity,Medium,ACCT000240,CUST00042,Savings,Active,2025-01-16
+Account status must be valid,Validity,Medium,ACCT000243,CUST00073,Loan,Active,2023-12-30
+Account status must be valid,Validity,Medium,ACCT000247,CUST00136,Loan,Active,2025-07-31
+Account status must be valid,Validity,Medium,ACCT000248,CUST00052,Savings,Active,2021-04-17
+Account status must be valid,Validity,Medium,ACCT000249,CUST00165,Loan,Active,2024-02-10
+Account status must be valid,Validity,Medium,ACCT000250,CUST00240,Checking,Active,2022-08-07
+Account status must be valid,Validity,Medium,ACCT000251,CUST00022,Savings,Active,2023-07-10
+Account status must be valid,Validity,Medium,ACCT000255,CUST00102,Credit Card,Active,2023-03-02
+Account status must be valid,Validity,Medium,ACCT000256,CUST00021,Credit Card,Active,2021-02-27
+Account status must be valid,Validity,Medium,ACCT000257,CUST00082,Checking,Active,2025-06-09
+Account status must be valid,Validity,Medium,ACCT000258,CUST00038,Savings,Active,2022-08-11
+Account status must be valid,Validity,Medium,ACCT000259,CUST00235,Loan,Active,2025-04-04
+Account status must be valid,Validity,Medium,ACCT000261,CUST00002,Checking,Active,2022-06-09
+Account status must be valid,Validity,Medium,ACCT000263,CUST00199,Credit Card,Active,2022-09-09
+Account status must be valid,Validity,Medium,ACCT000264,CUST00032,Checking,Active,2023-05-10
+Account status must be valid,Validity,Medium,ACCT000265,CUST00164,Loan,Active,2021-08-16
+Account status must be valid,Validity,Medium,ACCT000266,CUST00215,Loan,Active,2024-07-18
+Account status must be valid,Validity,Medium,ACCT000267,CUST00132,Savings,Active,2022-08-20
+Account status must be valid,Validity,Medium,ACCT000268,CUST00110,Checking,Active,2022-05-08
+Account status must be valid,Validity,Medium,ACCT000269,CUST00147,Loan,Active,2024-09-22
+Account status must be valid,Validity,Medium,ACCT000270,CUST00172,Checking,Active,2021-05-19
+Account status must be valid,Validity,Medium,ACCT000273,CUST00065,Checking,Active,2025-06-03
+Account status must be valid,Validity,Medium,ACCT000274,CUST00018,Credit Card,Active,2025-02-10
+Account status must be valid,Validity,Medium,ACCT000275,CUST00169,Checking,Active,2021-10-01
+Account status must be valid,Validity,Medium,ACCT000276,CUST00012,Credit Card,Active,2025-07-25
+Account status must be valid,Validity,Medium,ACCT000278,CUST00123,Savings,Active,2021-05-10
+Account status must be valid,Validity,Medium,ACCT000279,CUST00184,Loan,Active,2022-08-24
+Account status must be valid,Validity,Medium,ACCT000280,CUST00052,Checking,Active,2025-12-20
+Account status must be valid,Validity,Medium,ACCT000281,CUST00011,Credit Card,Active,2023-11-22
+Account status must be valid,Validity,Medium,ACCT000282,CUST00102,Loan,Active,2021-03-16
+Account status must be valid,Validity,Medium,ACCT000283,CUST00193,Savings,Active,2023-01-02
+Account status must be valid,Validity,Medium,ACCT000284,CUST00221,Checking,Active,2022-07-14
+Account status must be valid,Validity,Medium,ACCT000288,CUST00128,Credit Card,Active,2025-06-29
+Account status must be valid,Validity,Medium,ACCT000289,CUST00022,Loan,Active,2023-06-01
+Account status must be valid,Validity,Medium,ACCT000290,CUST00155,Savings,Active,2022-10-20
+Account status must be valid,Validity,Medium,ACCT000291,CUST00027,Checking,Active,2024-09-15
+Account status must be valid,Validity,Medium,ACCT000293,CUST00184,Loan,Active,2024-11-13
+Account status must be valid,Validity,Medium,ACCT000296,CUST00164,Checking,Active,2024-10-06
+Account status must be valid,Validity,Medium,ACCT000297,CUST00164,Loan,Active,2023-11-17
+Account status must be valid,Validity,Medium,ACCT000298,CUST00206,Savings,Active,2021-10-20
+Account status must be valid,Validity,Medium,ACCT000299,CUST00218,Loan,Active,2021-09-16
+Account status must be valid,Validity,Medium,ACCT000300,CUST00018,Savings,Active,2023-01-12
+Account status must be valid,Validity,Medium,ACCT000301,CUST00099,Checking,Active,2024-10-22
+Account status must be valid,Validity,Medium,ACCT000302,CUST00116,Credit Card,Active,2023-06-29
+Account status must be valid,Validity,Medium,ACCT000303,CUST00196,Checking,Active,2023-12-21
+Account status must be valid,Validity,Medium,ACCT000304,CUST00094,Loan,Active,2024-08-23
+Account status must be valid,Validity,Medium,ACCT000305,CUST00072,Savings,Active,2021-02-23
+Account status must be valid,Validity,Medium,ACCT000307,CUST00100,Checking,Active,2025-05-07
+Account status must be valid,Validity,Medium,ACCT000308,CUST00067,Loan,Active,2024-06-07
+Account status must be valid,Validity,Medium,ACCT000309,CUST00074,Loan,Active,2021-09-09
+Account status must be valid,Validity,Medium,ACCT000311,CUST00231,Loan,Active,2025-07-18
+Account status must be valid,Validity,Medium,ACCT000312,CUST00175,Credit Card,Active,2024-12-24
+Account status must be valid,Validity,Medium,ACCT000313,CUST00017,Credit Card,Active,2025-10-10
+Account status must be valid,Validity,Medium,ACCT000314,CUST00041,Savings,Active,2023-11-08
+Account status must be valid,Validity,Medium,ACCT000315,CUST00058,Checking,Active,2025-06-11
+Account status must be valid,Validity,Medium,ACCT000318,CUST00142,Savings,Active,2021-05-15
+Account status must be valid,Validity,Medium,ACCT000320,CUST00106,Loan,Active,2021-09-14
+Account status must be valid,Validity,Medium,ACCT000321,CUST00249,Credit Card,Active,2023-07-11
+Account status must be valid,Validity,Medium,ACCT000322,CUST00120,Credit Card,Active,2025-12-04
+Account status must be valid,Validity,Medium,ACCT000323,CUST00213,Savings,Active,2023-06-06
+Account status must be valid,Validity,Medium,ACCT000324,CUST00129,Checking,Active,2023-11-28
+Account status must be valid,Validity,Medium,ACCT000325,CUST00040,Credit Card,Active,2021-11-28
+Account status must be valid,Validity,Medium,ACCT000326,CUST00083,Savings,Active,2023-11-29
+Account status must be valid,Validity,Medium,ACCT000327,CUST00230,Credit Card,Active,2022-05-29
+Account status must be valid,Validity,Medium,ACCT000328,CUST00051,Credit Card,Active,2024-07-04
+Account status must be valid,Validity,Medium,ACCT000329,CUST00078,Checking,Active,2024-04-27
+Account status must be valid,Validity,Medium,ACCT000330,CUST00242,Savings,Active,2024-09-11
+Account status must be valid,Validity,Medium,ACCT000331,CUST00160,Credit Card,Active,2025-08-18
+Account status must be valid,Validity,Medium,ACCT000332,CUST00222,Checking,Active,2021-04-04
+Account status must be valid,Validity,Medium,ACCT000333,CUST00243,Credit Card,Active,2025-04-20
+Account status must be valid,Validity,Medium,ACCT000334,CUST00147,Loan,Active,2023-10-17
+Account status must be valid,Validity,Medium,ACCT000335,CUST00228,Credit Card,Active,2023-09-17
+Account status must be valid,Validity,Medium,ACCT000336,CUST00063,Loan,Active,2023-07-18
+Account status must be valid,Validity,Medium,ACCT000337,CUST00019,Checking,Active,2023-06-20
+Account status must be valid,Validity,Medium,ACCT000339,CUST00088,Savings,Active,2025-10-31
+Account status must be valid,Validity,Medium,ACCT000340,CUST00184,Credit Card,Active,2023-03-28
+Account status must be valid,Validity,Medium,ACCT000341,CUST00034,Credit Card,Active,2022-10-16
+Account status must be valid,Validity,Medium,ACCT000342,CUST00062,Loan,Active,2022-07-02
+Account status must be valid,Validity,Medium,ACCT000343,CUST00116,Savings,Active,2021-07-18
+Account status must be valid,Validity,Medium,ACCT000345,CUST00158,Loan,Active,2025-11-08
+Account status must be valid,Validity,Medium,ACCT000346,CUST00231,Savings,Active,2024-03-29
+Account status must be valid,Validity,Medium,ACCT000347,CUST00185,Credit Card,Active,2025-04-12
+Account status must be valid,Validity,Medium,ACCT000351,CUST00056,Credit Card,Active,2021-04-14
+Account status must be valid,Validity,Medium,ACCT000353,CUST00138,Checking,Active,2023-06-02
+Account status must be valid,Validity,Medium,ACCT000354,CUST00035,Credit Card,Active,2025-04-14
+Account status must be valid,Validity,Medium,ACCT000355,CUST00104,Credit Card,Active,2023-04-01
+Account status must be valid,Validity,Medium,ACCT000356,CUST00014,Savings,Active,2024-02-08
+Account status must be valid,Validity,Medium,ACCT000358,CUST00116,Credit Card,Active,2021-09-21
+Account status must be valid,Validity,Medium,ACCT000360,CUST00204,Credit Card,Active,2025-03-27
+Account status must be valid,Validity,Medium,ACCT000362,CUST00011,Checking,Active,2021-10-08
+Account status must be valid,Validity,Medium,ACCT000364,CUST00117,Savings,Active,2022-11-03
+Account status must be valid,Validity,Medium,ACCT000365,CUST00239,Credit Card,Active,2023-03-16
+Account status must be valid,Validity,Medium,ACCT000366,CUST00158,Credit Card,Active,2023-11-05
+Account status must be valid,Validity,Medium,ACCT000367,CUST00213,Loan,Active,2023-08-31
+Account status must be valid,Validity,Medium,ACCT000368,CUST00209,Checking,Active,2022-11-10
+Account status must be valid,Validity,Medium,ACCT000371,CUST00248,Savings,Active,2024-04-10
+Account status must be valid,Validity,Medium,ACCT000373,CUST00211,Savings,Active,2024-03-18
+Account status must be valid,Validity,Medium,ACCT000374,CUST00243,Checking,Active,2021-02-08
+Account status must be valid,Validity,Medium,ACCT000377,CUST00199,Loan,Active,2024-12-16
+Account status must be valid,Validity,Medium,ACCT000378,CUST00036,Savings,Active,2024-09-18
+Account status must be valid,Validity,Medium,ACCT000379,CUST00123,Loan,Active,2021-12-21
+Account status must be valid,Validity,Medium,ACCT000380,CUST00118,Credit Card,Active,2024-10-16
+Account status must be valid,Validity,Medium,ACCT000382,CUST00246,Savings,Active,2024-02-17
+Account status must be valid,Validity,Medium,ACCT000383,CUST00077,Savings,Active,2025-04-29
+Account status must be valid,Validity,Medium,ACCT000385,CUST00123,Credit Card,Active,2022-08-13
+Account status must be valid,Validity,Medium,ACCT000387,CUST00089,Savings,Active,2021-03-28
+Account status must be valid,Validity,Medium,ACCT000388,CUST00074,Checking,Active,2023-06-25
+Account status must be valid,Validity,Medium,ACCT000390,CUST00052,Credit Card,Active,2021-10-09
+Account status must be valid,Validity,Medium,ACCT000391,CUST00028,Savings,Active,2021-04-14
+Account status must be valid,Validity,Medium,ACCT000392,CUST00172,Savings,Active,2021-04-18
+Account status must be valid,Validity,Medium,ACCT000393,CUST00026,Loan,Active,2025-01-09
+Account status must be valid,Validity,Medium,ACCT000394,CUST00121,Checking,Active,2021-01-11
+Account status must be valid,Validity,Medium,ACCT000397,CUST00052,Credit Card,Active,2022-08-08
+Account status must be valid,Validity,Medium,ACCT000398,CUST00166,Checking,Active,2024-08-28
+Account status must be valid,Validity,Medium,ACCT000399,CUST00147,Savings,Active,2021-12-25
+Account status must be valid,Validity,Medium,ACCT000400,CUST00107,Savings,Active,2025-09-09

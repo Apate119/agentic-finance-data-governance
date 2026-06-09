@@ -1,0 +1,7 @@
+exception_file,record_count,output_path
+customer_name_null_exceptions.csv,1,/Users/aditp/agentic-finance-data-governance/outputs/exceptions/customer_name_null_exceptions.csv
+invalid_country_exceptions.csv,51,/Users/aditp/agentic-finance-data-governance/outputs/exceptions/invalid_country_exceptions.csv
+orphan_account_exceptions.csv,1,/Users/aditp/agentic-finance-data-governance/outputs/exceptions/orphan_account_exceptions.csv
+invalid_account_status_exceptions.csv,292,/Users/aditp/agentic-finance-data-governance/outputs/exceptions/invalid_account_status_exceptions.csv
+orphan_transaction_exceptions.csv,1,/Users/aditp/agentic-finance-data-governance/outputs/exceptions/orphan_transaction_exceptions.csv
+null_regulatory_balance_exceptions.csv,1,/Users/aditp/agentic-finance-data-governance/outputs/exceptions/null_regulatory_balance_exceptions.csv

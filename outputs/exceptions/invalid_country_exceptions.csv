@@ -1,0 +1,52 @@
+check_name,dimension,severity,customer_id,customer_name,customer_segment,country,created_date
+Customer country must be valid,Validity,Medium,CUST00004,Davis and Sons,Consumer,GB,2023-05-15
+Customer country must be valid,Validity,Medium,CUST00007,Blake and Sons,Consumer,GB,2022-02-12
+Customer country must be valid,Validity,Medium,CUST00014,"Mcclure, Ward and Lee",Commercial,GB,2022-06-26
+Customer country must be valid,Validity,Medium,CUST00017,James Group,Commercial,GB,2025-12-19
+Customer country must be valid,Validity,Medium,CUST00018,"Flowers, Martin and Kelly",Commercial,GB,2022-01-29
+Customer country must be valid,Validity,Medium,CUST00026,Wilkerson-Day,Small Business,GB,2025-02-02
+Customer country must be valid,Validity,Medium,CUST00037,Smith-Bowen,Commercial,GB,2023-05-28
+Customer country must be valid,Validity,Medium,CUST00039,Harrell LLC,Small Business,GB,2023-10-08
+Customer country must be valid,Validity,Medium,CUST00044,Allen-Allen,Enterprise,GB,2022-05-30
+Customer country must be valid,Validity,Medium,CUST00049,Hickman Ltd,Commercial,GB,2025-04-10
+Customer country must be valid,Validity,Medium,CUST00050,"Harris, Collins and Carney",Small Business,GB,2021-08-06
+Customer country must be valid,Validity,Medium,CUST00051,"Brooks, Lam and Hayes",Commercial,GB,2024-06-01
+Customer country must be valid,Validity,Medium,CUST00053,Chapman and Sons,Small Business,GB,2025-05-14
+Customer country must be valid,Validity,Medium,CUST00054,"Robinson, Jones and Welch",Consumer,GB,2022-10-26
+Customer country must be valid,Validity,Medium,CUST00061,"Brown, Valdez and Lucas",Enterprise,GB,2021-12-05
+Customer country must be valid,Validity,Medium,CUST00062,Powell LLC,Commercial,GB,2025-11-22
+Customer country must be valid,Validity,Medium,CUST00068,Novak and Sons,Consumer,GB,2024-02-09
+Customer country must be valid,Validity,Medium,CUST00069,Russell Group,Small Business,GB,2022-03-28
+Customer country must be valid,Validity,Medium,CUST00075,Novak PLC,Small Business,GB,2024-03-26
+Customer country must be valid,Validity,Medium,CUST00084,"Edwards, Baker and Anderson",Small Business,GB,2023-07-08
+Customer country must be valid,Validity,Medium,CUST00095,Campbell-Clark,Enterprise,GB,2024-09-17
+Customer country must be valid,Validity,Medium,CUST00099,Williams-Cook,Consumer,GB,2023-09-04
+Customer country must be valid,Validity,Medium,CUST00103,"Mckee, Gardner and Davenport",Consumer,GB,2022-05-20
+Customer country must be valid,Validity,Medium,CUST00104,"Tran, Jordan and Williams",Consumer,GB,2021-06-17
+Customer country must be valid,Validity,Medium,CUST00105,Nolan-Flynn,Enterprise,GB,2024-03-03
+Customer country must be valid,Validity,Medium,CUST00112,"Shields, Cochran and Adams",Small Business,GB,2022-06-28
+Customer country must be valid,Validity,Medium,CUST00116,Walker Ltd,Commercial,GB,2025-07-11
+Customer country must be valid,Validity,Medium,CUST00117,Ross LLC,Consumer,GB,2022-09-06
+Customer country must be valid,Validity,Medium,CUST00122,Johnson-Carlson,Commercial,GB,2023-09-28
+Customer country must be valid,Validity,Medium,CUST00127,"Mcdaniel, Bentley and Mclaughlin",Enterprise,GB,2024-12-16
+Customer country must be valid,Validity,Medium,CUST00128,Diaz Inc,Enterprise,GB,2021-01-20
+Customer country must be valid,Validity,Medium,CUST00130,Cortez LLC,Small Business,GB,2021-03-15
+Customer country must be valid,Validity,Medium,CUST00131,"Parker, Ortiz and Powell",Commercial,GB,2024-02-06
+Customer country must be valid,Validity,Medium,CUST00136,"Lawson, Morris and Ramos",Enterprise,GB,2025-03-15
+Customer country must be valid,Validity,Medium,CUST00149,Bryant Group,Enterprise,GB,2022-11-10
+Customer country must be valid,Validity,Medium,CUST00161,Brown-Wall,Commercial,GB,2022-09-26
+Customer country must be valid,Validity,Medium,CUST00163,"Smith, Gilmore and Johnston",Commercial,GB,2021-09-18
+Customer country must be valid,Validity,Medium,CUST00186,Johnston-Odonnell,Enterprise,GB,2023-07-03
+Customer country must be valid,Validity,Medium,CUST00189,Garcia LLC,Commercial,GB,2023-09-20
+Customer country must be valid,Validity,Medium,CUST00199,Ramirez Group,Consumer,GB,2023-02-19
+Customer country must be valid,Validity,Medium,CUST00202,White-Lewis,Enterprise,GB,2025-03-11
+Customer country must be valid,Validity,Medium,CUST00220,Terry-Martinez,Consumer,GB,2021-11-09
+Customer country must be valid,Validity,Medium,CUST00222,Harrison-Alexander,Consumer,GB,2022-03-23
+Customer country must be valid,Validity,Medium,CUST00226,Hernandez PLC,Consumer,GB,2021-02-22
+Customer country must be valid,Validity,Medium,CUST00227,Miller-Wright,Commercial,GB,2024-10-19
+Customer country must be valid,Validity,Medium,CUST00231,"Branch, Torres and Oliver",Commercial,GB,2025-07-08
+Customer country must be valid,Validity,Medium,CUST00232,"Choi, Garcia and Farmer",Consumer,GB,2025-05-22
+Customer country must be valid,Validity,Medium,CUST00239,"Guerrero, Peck and Coleman",Small Business,GB,2024-08-25
+Customer country must be valid,Validity,Medium,CUST00240,"Walker, Hernandez and Baker",Commercial,GB,2025-07-14
+Customer country must be valid,Validity,Medium,CUST00245,"Fernandez, Kim and George",Enterprise,GB,2024-06-03
+Customer country must be valid,Validity,Medium,CUST00250,Ruiz Ltd,Commercial,GB,2021-01-21
