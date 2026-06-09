@@ -1,5 +1,7 @@
 # Agentic Finance Data Governance Pipeline
 
+![Pipeline Status](https://github.com/Apate119/agentic-finance-data-governance/actions/workflows/pipeline.yml/badge.svg)
+
 This project is an end-to-end finance data governance pipeline that simulates how banking data can be ingested, validated, scored, and routed for remediation in a regulatory reporting environment.
 
 The pipeline generates synthetic customer, account, transaction, and regulatory balance data, loads it into a local DuckDB warehouse, runs automated data quality controls, produces a governance scorecard, exports exception-level records, and creates a remediation action log assigned to data owners.
