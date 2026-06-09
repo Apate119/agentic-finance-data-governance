@@ -13,8 +13,8 @@ Financial institutions rely on accurate, complete, and traceable data for regula
 The design is intentionally modular so the local DuckDB implementation can later be extended to Snowflake, Databricks, dbt, Airflow, or cloud storage.
 
 For a business-facing project summary, see [`docs/executive_summary.md`](docs/executive_summary.md).
-
 For a more detailed architecture overview, see [`docs/architecture.md`](docs/architecture.md).
+For a business view of the implemented controls, see [`docs/control_catalog.md`](docs/control_catalog.md).
 
 ## Pipeline Flow
 
