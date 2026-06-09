@@ -171,7 +171,7 @@ agentic-finance-data-governance/
 │       └── build_governance_scorecard.py
 └── README.md
 ```
-
+For a more detailed architecture overview, see [`docs/architecture.md`](docs/architecture.md).
 ## How to Run
 
 ### 1. Clone the repository
