@@ -16,6 +16,7 @@ For a business-facing project summary, see [`docs/executive_summary.md`](docs/ex
 For a more detailed architecture overview, see [`docs/architecture.md`](docs/architecture.md).
 For a business view of the implemented controls, see [`docs/control_catalog.md`](docs/control_catalog.md).
 For guidance on interpreting generated outputs, see [`docs/output_guide.md`](docs/output_guide.md).
+For source dataset definitions, see [`docs/data_dictionary.md`](docs/data_dictionary.md).
 
 ## Pipeline Flow
 
@@ -196,7 +197,13 @@ source .venv/bin/activate
 ### 3. Install dependencies
 
 ```bash
-pip install pandas duckdb Faker
+pip install -r requirements.txt
+```
+
+Or use the Makefile:
+
+```bash
+make install
 ```
 
 ### 4. Run the full pipeline
@@ -204,6 +211,13 @@ pip install pandas duckdb Faker
 ```bash
 python src/pipeline/run_pipeline.py
 ```
+
+Or use the Makefile:
+
+```bash
+make run
+```
+
 
 ## Pipeline Steps
 
